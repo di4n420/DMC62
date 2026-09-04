@@ -14,7 +14,7 @@ if modulos == "Listas":
 
   Lista = list(range(valor_inicial,valor_final))
 
-  st.write(lista)
+  st.write(Lista)
 
 elif modulos == "Arreglos":
   st.write("Te encuentras en el módulo de Arreglos")
