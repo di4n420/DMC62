@@ -21,5 +21,5 @@ elif modulos == "Arreglos":
 elif modulos == "Funciones":
   st.write("Te encuentras en el módulo de Funciones")
   
-else
+else:
   st.write("Te encuentras en el módulo de POO")
